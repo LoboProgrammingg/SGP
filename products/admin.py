@@ -36,6 +36,6 @@ class ProductAdmin(admin.ModelAdmin):
                              product.price, product.is_active, product.description,
                              product.created_at, product.updated_at])
         return response
-    
+
     export_to_csv.short_description = 'Exportar para CSV'
     actions = [export_to_csv]
