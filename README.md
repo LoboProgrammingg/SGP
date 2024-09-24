@@ -8,4 +8,8 @@
 + Django 5.0
 + Django Jazzmin 3.0.0
 --------------------------------
+
+### Appearance of the finished project
+![Design sem nome(1)](https://github.com/user-attachments/assets/be207a3c-3ecd-42b2-b5e8-1b38b1d27134)
+
 #### Created by: Matheus Lobo Camara
